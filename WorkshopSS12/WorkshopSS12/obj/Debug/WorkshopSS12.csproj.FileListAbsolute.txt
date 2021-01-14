@@ -1,0 +1,7 @@
+C:\Users\Son\source\repos\WorkshopSS12\WorkshopSS12\obj\Debug\WorkshopSS12.csprojAssemblyReference.cache
+C:\Users\Son\source\repos\WorkshopSS12\WorkshopSS12\obj\Debug\WorkshopSS12.csproj.CoreCompileInputs.cache
+C:\Users\Son\source\repos\WorkshopSS12\WorkshopSS12\bin\Debug\WorkshopSS12.exe.config
+C:\Users\Son\source\repos\WorkshopSS12\WorkshopSS12\bin\Debug\WorkshopSS12.exe
+C:\Users\Son\source\repos\WorkshopSS12\WorkshopSS12\bin\Debug\WorkshopSS12.pdb
+C:\Users\Son\source\repos\WorkshopSS12\WorkshopSS12\obj\Debug\WorkshopSS12.exe
+C:\Users\Son\source\repos\WorkshopSS12\WorkshopSS12\obj\Debug\WorkshopSS12.pdb

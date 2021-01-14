@@ -1,0 +1,1 @@
+C:\Users\Son\source\repos\CsharpLAB-7\WorkshopSS10\obj\Debug\BankTest.csproj.CoreCompileInputs.cache
